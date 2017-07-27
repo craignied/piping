@@ -1,0 +1,20 @@
+{
+  "name": "robotpi",
+  "version": "1.0.0",
+  "description": "Getting nodejs and python to work together for the Pi robot",
+  "main": "server.js",
+  "scripts": {
+    "start": "open http://localhost:3000 & node server.js"
+  },
+  "keywords": [
+    "python",
+    "nodejs"
+  ],
+  "author": "Craig Niederberger",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "nodejs-websocket": "^1.7.1",
+    "socket.io": "^1.7.4"
+  }
+}

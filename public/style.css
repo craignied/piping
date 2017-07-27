@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: #0F0;
+    font-family: verdana;
+    height: 5000px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 500%;
+}
+
+div.messages {
+    margin-left: 1em;
+    font-size: 500%;
+}
